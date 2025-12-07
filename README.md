@@ -1,42 +1,67 @@
-# Online Booking NextJs Template: Chisfis
+# 🌍 **VOYZA – Online Travel Booking Next.js Template**
 
-Welcome to **Chisfis**, a responsive Nextjs template theme tailored for Online booking, Listing, Real Estate, and booking systems. Whether you're running an accommodation service, travel experience, cruise, car rental, real estate, or a travel agency, Chisfis has got you covered.
+Welcome to **VOYZA**, a modern, responsive Next.js template crafted for **travel booking, stays, experiences, tours, car rentals, and complete travel platforms**.
+If you’re building a **travel website, booking marketplace, hotel listing system, or experience platform**, VOYZA delivers a clean, elegant, and premium UI experience.
 
-![Chisfis Banner](https://i.ibb.co/JqPfydC/b-landing.png) 
+![Voyza Banner]<img width="1902" height="923" alt="image" src="https://github.com/user-attachments/assets/d3a90f8f-d49e-4064-a88a-753e0da88309" />
 
-## 🌟 Features
 
-- **Responsive Design**: Modern and fresh design across all devices.
-- **Booking & Listing**: Dedicated templates for booking and listing.
-- **30+ Pages**: A plethora of pages to suit all your needs.
-- **Tailwindcss v3.x**: Built on the latest version for a sleek design.
-- **Dark & Light Modes**: Switch between themes seamlessly.
-- **Latest Tech Stack**: NextJs 13.4.x (`app` directory), Typescript, and TailwindCss.
-- **React Ecosystem**: HeadlessUI components, React v.18.x, Google Map React, React-datepicker, and more.
-- **Code Quality**: Proptypes checking, React hooks, and Prettier for a consistent codebase.
-- **Interactive Components**: Over 8 listing cards, modal gallery, checkout pages, and more.
-- **Built-in React Packages**: A collection of essential packages for a smooth development experience.
-
-## 📦 In The Box
-
-- Full source code of the theme.
-- All React component files.
-- CSS & SCSS source codes.
-- All plugins & libraries.
-- Comprehensive documentation.
-
-## 🚀 Getting Started
-
-1. Clone the repository.
-2. Navigate to the `app` directory.
-3. Install dependencies using `npm install` or `yarn install`.
-4. Run the development server using `npm run dev` or `yarn dev`.
-5. Explore the documentation for more details.
-
-## 🙏 Acknowledgements
-
-A big shoutout to all the libraries, plugins, and assets that made this project possible.
 
 ---
 
-Crafted with ❤️ by [Rohitash Singh](https://github.com/rohitashsingh89). Connect with me on [LinkedIn](https://www.linkedin.com/in/rohitashsingh89).
+## ✨ Features
+
+* **Premium Responsive Design** – Minimal, modern & travel-focused across all devices
+* **Travel Booking System** – Stays, hotels, tours, car rentals, experiences & more
+* **30+ Ready Pages** – Built for real booking use cases
+* **TailwindCSS v3.x** – Clean styling with full customization
+* **Dark & Light Themes** – Beautiful UI in both modes
+* **Latest Tech Stack** – Next.js 13.4+ (`app` directory), TypeScript, TailwindCSS
+* **Travel Components** – Cards, maps, filters, datepickers, steps, checkout
+* **Google Maps Integration** – For listings, stays & routes
+* **High Quality Codebase** – React hooks, prop validation, clean structure
+* **Interactive UI** – Galleries, modals, sliders, booking steps & more built-in
+
+---
+
+## 📦 What’s Inside?
+
+* Full source code of the VOYZA template
+* All modular React components
+* SCSS & Tailwind source files
+* All plugins, packages & utilities
+* Complete documentation for beginners
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository
+2. Navigate to the **`app`** directory
+3. Install dependencies
+
+   ```bash
+   npm install
+   # or
+   yarn install
+   ```
+4. Start development
+
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+5. Follow documentation to customize your travel platform
+
+---
+
+## 🙏 Credits
+
+A huge thanks to all the tools, open-source libraries & creative assets that power this template.
+
+---
+
+Crafted with ✈️ by **Team VOYZA**.
+Follow us for updates & new travel UI kits.
+
